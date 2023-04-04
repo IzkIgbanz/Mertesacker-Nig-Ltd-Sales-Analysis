@@ -83,7 +83,7 @@ A few of the analyzed data being visualized include the best selling products fo
 Picking a particular suitable color and making this look ‘Okay’ was a real job though. This to me seems to be the easier part of all these. 
 This is what the final Sales analysis Dashboard looks like
 
-![](Mertesacker_sales_dashboard.png)
+![](Sales_Dashboard.png)
 
 
 You may come across a new finding and it may be cool to show to the stakeholders just as I came across some new findings myself. No matter how cool the findings may be, not all information should be shown on your dashboard.
